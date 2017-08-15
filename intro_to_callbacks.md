@@ -1,4 +1,4 @@
-# Working With Functions
+# Working With Functions  
 In JavaScript, functions are not invoked (or 'called') until they're appended with parentheses. "Of course", you say, "but why is that important?" Well, it may not seem significant at first glance, but being able to either *refer to* or *invoke* functions allows us to use them in a variety of ways. For example:
 
 1. A function can be invoked by adding a trailing set of parentheses:
@@ -116,4 +116,3 @@ In short, `.forEach()` allows us to focus on what we want to **do** with the ite
 Wait, it gets event better! We're not limited to *just* the `.forEach()` method. There are actually a variety of array **Iteration Methods**, and they all have a few things in common:
 - Each method is called *on* an array.
 - Each method accepts one argument: a 'callback' function.
-
